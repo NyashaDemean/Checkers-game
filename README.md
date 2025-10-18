@@ -9,6 +9,11 @@
 This project implements a **console-based Checkers game** entirely using **bitboard representation (64-bit integers)**.  
 It demonstrates bit manipulation, control flow, and structured programming.
 
+#### HOW TO COMPILE
+gcc main.c board.c moves.c save_load.c -o checkers
+./checkers
+
+
 ---
 
 ## 🧩 Features
